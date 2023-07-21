@@ -1,0 +1,72 @@
+.img
+{
+    position: absolute;
+}
+.text
+{
+    position: relative;
+}
+.text-1
+{
+    font-family: B Nazanin;
+    font-size: 25px;
+    color: blue;
+}
+.text-2
+{
+    font-family: B Nazanin;
+
+}
+.img-2
+{
+    margin-right: 250px;
+}
+.part-1 
+{
+    position:relative;
+}
+.p1
+{
+    font-family: B Nazanin;
+    font-size: 30px;
+        margin-top: 0%;
+}
+.p2
+{
+    font-family: B Nazanin;
+    font-size: 25px;
+}
+.p3
+{
+    font-family: B Nazanin;
+    font-size: 23px;
+}
+.p4
+{
+    font-family: B Nazanin;
+    font-size: 23;
+}
+.part-2
+{
+    position: absolute;
+    margin-right: 150px;
+    border: 1px;
+    margin-top: 0%;
+
+}
+.part-3
+{
+    margin-right: 700px;
+}
+.part-4
+{
+    margin-top: 0%;
+}
+/* .icon
+{
+    color:cornflowerblue;
+    padding: 15px;
+    display: inline-flex;
+    size: 50px;
+    
+} */
